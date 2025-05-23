@@ -36,3 +36,18 @@
    ```bash
    git clone https://github.com/your-username/gemini-ai-playground.git
    cd gemini-ai-playground
+   Install dependencies
+2. **Install dependencies
+   ```bash
+   pip install -r requirements.txt
+3. **Add your Gemini API key
+   Create a .streamlit/secrets.toml file:
+   ```toml
+   [api] gemini_key = "your_gemini_api_key"
+4. Run the app
+   ```bash
+   streamlit run main.py
+
+## 📜 License
+This project is licensed under the MIT License.
+   
