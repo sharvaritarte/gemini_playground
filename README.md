@@ -32,7 +32,7 @@ Gemini AI Playground is a modern Streamlit-based web app powered by Google’s G
 
 ## 🚀 Getting Started
 
-1. Clone the repository**
+1. Clone the repository
    ```bash
    git clone https://github.com/your-username/gemini-ai-playground.git
    cd gemini-ai-playground
