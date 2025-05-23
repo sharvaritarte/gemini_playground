@@ -1,4 +1,4 @@
-# 🌌 Gemini AI Playground
+# Gemini AI Playground
 
 Gemini AI Playground** is a modern Streamlit-based web app powered by Google’s Gemini Pro API. It offers a suite of interactive AI features including chatbot interaction, image captioning, text embedding, and an open-ended Q&A interface. It includes a modern UI with sidebar navigation, personalized greetings, and seamless session management — perfect for exploring Gemini's capabilities in an interactive and user-friendly way.
 ---
