@@ -1,6 +1,6 @@
 # Gemini AI Playground
 
-Gemini AI Playground is a modern Streamlit-based web app powered by Google’s Gemini Pro API. It offers a suite of interactive AI features including chatbot interaction, image captioning, text embedding, and an open-ended Q&A interface. It includes a modern UI with sidebar navigation, personalized greetings, and seamless session management — perfect for exploring Gemini's capabilities in an interactive and user-friendly way.
+Gemini AI Playground is a modern Streamlit-based web app powered by Google’s Gemini Pro API. It offers a suite of interactive AI features including chatbot interaction, image captioning, text embedding, and an open-ended Q&A interface. 
 ---
 
 ## ✨ Features
@@ -32,15 +32,15 @@ Gemini AI Playground is a modern Streamlit-based web app powered by Google’s G
 
 ## 🚀 Getting Started
 
-1. **Clone the repository**
+1. Clone the repository**
    ```bash
    git clone https://github.com/your-username/gemini-ai-playground.git
    cd gemini-ai-playground
    Install dependencies
-2. **Install dependencies
+2. Install dependencies
    ```bash
    pip install -r requirements.txt
-3. **Add your Gemini API key
+3. Add your Gemini API key
    Create a .streamlit/secrets.toml file:
    ```toml
    [api] gemini_key = "your_gemini_api_key"
